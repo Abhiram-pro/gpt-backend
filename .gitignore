@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# dotenv environment variables
+.env
+
+# macOS metadata
+.DS_Store
+
+# PyCharm or VSCode settings (optional)
+.idea/
+.vscode/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Logs and local database
+*.log
+
+# Render deploy config (if auto-generated)
+render.yaml
+
+# Cache
+*.cache
